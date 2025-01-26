@@ -42,7 +42,7 @@ Esta aplicación es una lista de tareas funcional y dinámica creada con HTML, C
 6. Observa los tooltips que aparecen al realizar acciones.
 
 ## Captura de pantalla
-![Captura de pantalla](media/images/captura.png)
+![Captura de pantalla](media/images/captura-proyecto.png)
 
 ## Live Demo
 Puedes ver una demostración en vivo de esta aplicación en el siguiente enlace: [Live Demo](https://tu-enlace-aqui.com)
