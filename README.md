@@ -1,7 +1,7 @@
 # To-Do WebApp
 
 ## Descripción
-Esta aplicación es una lista de tareas funcional y dinámica creada con HTML, CSS y JavaScript. Permite añadir, completar y eliminar tareas, además de guardar las tareas en el almacenamiento local del navegador. El proyecto incluye estilos personalizados y un diseño responsivo con Bootstrap.
+Esta aplicación es una lista de tareas funcional y dinámica creada con HTML, CSS y JavaScript. Permite añadir, completar y eliminar tareas, además de guardar las tareas en el almacenamiento local del navegador. El proyecto incluye estilos personalizados, un diseño responsivo con Bootstrap y está desplegado utilizando un bucket S3 de AWS para hosting estático.
 
 ## Funcionalidades
 1. **Añadir tareas:**
@@ -20,6 +20,7 @@ Esta aplicación es una lista de tareas funcional y dinámica creada con HTML, C
 - **CSS3:** Estilización personalizada con soporte para clases de Bootstrap.
 - **JavaScript:** Manejo de la lógica de la aplicación.
 - **Bootstrap 5:** Diseño responsivo y componentes prediseñados.
+- **AWS S3:** Hosting estático para el despliegue de la aplicación.
 
 ## Instalación
 1. Clona este repositorio:
@@ -47,11 +48,15 @@ Esta aplicación es una lista de tareas funcional y dinámica creada con HTML, C
 ## Live Demo
 Puedes ver una demostración en vivo de esta aplicación en el siguiente enlace: [Live Demo](https://tu-enlace-aqui.com)
 
+Esta aplicación está desplegada utilizando un bucket S3 de AWS para hosting estático.
+
 ## Mejoras futuras
 - Implementar categorías para clasificar las tareas.
 - Agregar fecha de vencimiento a las tareas.
+- Crear una base de datos para sincronizar tareas entre dispositivos.
 
 ## Créditos
 - Desarrollado por Diego Sesmero Fernández.
 
-
+## Licencia
+Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
