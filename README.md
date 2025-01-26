@@ -53,7 +53,6 @@ Esta aplicación está desplegada utilizando un bucket S3 de AWS para hosting es
 ## Mejoras futuras
 - Implementar categorías para clasificar las tareas.
 - Agregar fecha de vencimiento a las tareas.
-- Crear una base de datos para sincronizar tareas entre dispositivos.
 
 ## Créditos
 - Desarrollado por Diego Sesmero Fernández.
