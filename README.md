@@ -58,5 +58,3 @@ Esta aplicación está desplegada utilizando un bucket S3 de AWS para hosting es
 ## Créditos
 - Desarrollado por Diego Sesmero Fernández.
 
-## Licencia
-Este proyecto está bajo la licencia MIT. Puedes usarlo y modificarlo libremente.
