@@ -25,7 +25,7 @@ Esta aplicación es una lista de tareas funcional y dinámica creada con HTML, C
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/todo-webapp.git
+   git clone https://github.com/sesmerov/To-Do-WebApp.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 
